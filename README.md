@@ -1,4 +1,14 @@
-# EV-GRAMA CHARGE
+# ⚡ EV-GRAMA CHARGE
+
+<div align="center">
+
+### Community-Based Smart Electric Vehicle Charging Ecosystem
+
+Native Android Application | Kotlin | Android Studio | Major Internship Project
+
+</div>
+
+---
 
 ## Project Overview
 
@@ -92,3 +102,248 @@ Business Logic Layer
 Domain Layer
         ↓
 Data Layer
+```
+
+This architecture ensures:
+
+- Separation of concerns
+- Better code maintainability
+- Reusability of components
+- Scalable implementation
+- Modular development workflow
+
+---
+
+# Application Screens & Workflow
+
+The following screenshots demonstrate the complete application workflow and key user interactions.
+
+Create a folder:
+
+```text
+screenshots/
+```
+
+Store images as:
+
+```text
+pic1.png
+pic2.png
+pic3.png
+...
+pic12.png
+```
+
+---
+
+## 1. Application Launch Screen
+
+Application launcher and system entry point for EV-GRAMA CHARGE.
+
+![Application Launch](screenshots/pic1.png)
+
+---
+
+## 2. User Registration Interface
+
+Initial onboarding screen allowing users to enter profile details and choose a role.
+
+![Registration](screenshots/pic2.png)
+
+---
+
+## 3. Traveller Registration Workflow
+
+Traveller profile initialization and mobile registration flow.
+
+![Traveller Registration](screenshots/pic3.png)
+
+---
+
+## 4. Host Registration Workflow
+
+Host onboarding process for users offering charging services.
+
+![Host Registration](screenshots/pic4.png)
+
+---
+
+## 5. Host Dashboard
+
+Dashboard for charging hosts to manage charging availability, pricing, requests, and profiles.
+
+Features:
+
+- Availability management
+- Charging configuration
+- Request handling
+- Schedule management
+
+![Host Dashboard](screenshots/pic5.png)
+
+---
+
+## 6. Nearby Charging Discovery
+
+Displays nearby charging hosts and available charging stations.
+
+Features:
+
+- Distance information
+- Pricing
+- Socket details
+- Request generation
+- Google Maps support
+
+![Nearby Hosts](screenshots/pic6.png)
+
+---
+
+## 7. Booking Request Management
+
+Handles booking workflow and charging session requests.
+
+Features:
+
+- Booking generation
+- Host approval
+- Cost estimation
+- Session tracking
+
+![Booking Request](screenshots/pic7.png)
+
+---
+
+## 8. Charging Calculator
+
+Charging estimation utility for battery and range prediction.
+
+Features:
+
+- Battery input
+- Charging estimation
+- Distance prediction
+- Energy calculation
+
+![Charging Calculator](screenshots/pic8.png)
+
+---
+
+## 9. Green League
+
+Gamification feature for eco-friendly user engagement.
+
+Features:
+
+- Leaderboards
+- Rankings
+- Sustainability rewards
+
+![Green League](screenshots/pic9.png)
+
+---
+
+## 10. Community Feed
+
+Provides EV-related updates and local charging announcements.
+
+![Community Feed](screenshots/pic10.png)
+
+---
+
+## 11. EV Profile Management
+
+Stores EV specifications for personalized charging calculations.
+
+Features:
+
+- Vehicle details
+- Battery information
+- Charging profile setup
+
+![Vehicle Profile](screenshots/pic11.png)
+
+---
+
+## 12. Application Settings
+
+User customization and application configuration module.
+
+Features:
+
+- Language settings
+- Session management
+- Account controls
+
+![Settings](screenshots/pic12.png)
+
+---
+
+## Technology Stack
+
+| Component | Technology |
+|------------|-------------|
+| Language | Kotlin |
+| IDE | Android Studio |
+| Architecture | Layered Architecture |
+| UI Design | Material Design |
+| Build Tool | Gradle |
+| Version Control | Git & GitHub |
+
+---
+
+## Project Structure
+
+```text
+app/
+├── domain/
+├── navigation/
+├── ui/
+│   ├── screens/
+│   └── theme/
+├── resources/
+├── models/
+└── utilities/
+```
+
+---
+
+## Build & Execution
+
+Clone repository:
+
+```bash
+git clone <repository-url>
+```
+
+Move into project:
+
+```bash
+cd EV-GRAMA-CHARGE
+```
+
+Build:
+
+```bash
+./gradlew :app:assembleDebug
+```
+
+Run through Android Studio using the `app` configuration.
+
+---
+
+## Future Enhancements
+
+- Firebase integration
+- Real-time synchronization
+- Payment gateway integration
+- Google Maps live tracking
+- AI-based charging recommendations
+- Advanced analytics dashboard
+- MVVM architecture implementation
+
+---
+
+## Conclusion
+
+EV-GRAMA CHARGE demonstrates a scalable and community-driven EV charging ecosystem developed using modern Android development practices. The system combines accessibility, modularity, and practical problem solving while providing a strong foundation for future intelligent charging solutions.
