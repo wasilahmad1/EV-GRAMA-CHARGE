@@ -127,11 +127,11 @@ screenshots/
 Store images as:
 
 ```text
-pic1.png
-pic2.png
-pic3.png
+1.png
+2.png
+3.png
 ...
-pic12.png
+12.png
 ```
 
 ---
@@ -140,7 +140,7 @@ pic12.png
 
 Application launcher and system entry point for EV-GRAMA CHARGE.
 
-![Application Launch](screenshots/pic1.png)
+![Application Launch](screenshots/1.png)
 
 ---
 
@@ -148,7 +148,7 @@ Application launcher and system entry point for EV-GRAMA CHARGE.
 
 Initial onboarding screen allowing users to enter profile details and choose a role.
 
-![Registration](screenshots/pic2.png)
+![Registration](screenshots/2.png)
 
 ---
 
@@ -156,7 +156,7 @@ Initial onboarding screen allowing users to enter profile details and choose a r
 
 Traveller profile initialization and mobile registration flow.
 
-![Traveller Registration](screenshots/pic3.png)
+![Traveller Registration](screenshots/3.png)
 
 ---
 
@@ -164,7 +164,7 @@ Traveller profile initialization and mobile registration flow.
 
 Host onboarding process for users offering charging services.
 
-![Host Registration](screenshots/pic4.png)
+![Host Registration](screenshots/4.png)
 
 ---
 
@@ -179,7 +179,7 @@ Features:
 - Request handling
 - Schedule management
 
-![Host Dashboard](screenshots/pic5.png)
+![Host Dashboard](screenshots/5.png)
 
 ---
 
@@ -195,7 +195,7 @@ Features:
 - Request generation
 - Google Maps support
 
-![Nearby Hosts](screenshots/pic6.png)
+![Nearby Hosts](screenshots/6.png)
 
 ---
 
@@ -210,7 +210,7 @@ Features:
 - Cost estimation
 - Session tracking
 
-![Booking Request](screenshots/pic7.png)
+![Booking Request](screenshots/7.png)
 
 ---
 
@@ -225,7 +225,7 @@ Features:
 - Distance prediction
 - Energy calculation
 
-![Charging Calculator](screenshots/pic8.png)
+![Charging Calculator](screenshots/8.png)
 
 ---
 
@@ -239,7 +239,7 @@ Features:
 - Rankings
 - Sustainability rewards
 
-![Green League](screenshots/pic9.png)
+![Green League](screenshots/9.png)
 
 ---
 
@@ -247,7 +247,7 @@ Features:
 
 Provides EV-related updates and local charging announcements.
 
-![Community Feed](screenshots/pic10.png)
+![Community Feed](screenshots/10.png)
 
 ---
 
@@ -261,7 +261,7 @@ Features:
 - Battery information
 - Charging profile setup
 
-![Vehicle Profile](screenshots/pic11.png)
+![Vehicle Profile](screenshots/11.png)
 
 ---
 
@@ -275,7 +275,7 @@ Features:
 - Session management
 - Account controls
 
-![Settings](screenshots/pic12.png)
+![Settings](screenshots/12.png)
 
 ---
 
