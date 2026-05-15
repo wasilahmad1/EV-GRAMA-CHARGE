@@ -1,0 +1,5 @@
+<resources>
+    <color name="ev_background">#101418</color>
+    <color name="ev_surface">#182027</color>
+    <color name="ev_primary">#21C36F</color>
+</resources>
